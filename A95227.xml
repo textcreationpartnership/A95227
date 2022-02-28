@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late fight betweene the right honovrable the Earle of Manchesters forces, and the Marquesse of Newcastles forces, on Wednesday the 11.day of this instant October, 1643. The battaile being neere Horne Castle in Lincolneshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95227</idno>
+            <idno type="STC">Wing T2982</idno>
+            <idno type="STC">Thomason E71_5</idno>
+            <idno type="STC">ESTC R8631</idno>
+            <idno type="EEBO-CITATION">99873356</idno>
+            <idno type="PROQUEST">99873356</idno>
+            <idno type="VID">155452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late fight betweene the right honovrable the Earle of Manchesters forces, and the Marquesse of Newcastles forces, on Wednesday the 11.day of this instant October, 1643. The battaile being neere Horne Castle in Lincolneshire.</title>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Horncastle (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155452:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>A TRVE RELATION OF THE LATE FIGHT Betweene the RIGHT HONOVRABLE THE Earle of <hi>Mancheſters</hi> Forces, and the Marqueſſe of <hi>Newcaſtles</hi> Forces, on Wedneſday the 11. day of this inſtant <hi>October,</hi> 1643.</p>
+            <p>The Battaile being neere <hi>Horne Caſtle</hi> in <hi>LINCOLNESHIRE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:155452:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb n="1" facs="tcp:155452:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>A TRVE RELATION OF THE LATE FIGHT.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord of <hi>Mancheſter</hi> had notice when he was at <hi>Lynne,</hi> of a great force of horſe and Dragooners, come into <hi>Lincolne<g ref="char:EOLhyphen"/>ſhire,</hi> under the command of Generall <hi>Henderſon,</hi> That upon the retreate of Sir <hi>Thomas Fairefax</hi> and Colonell <hi>Gromwell,</hi> from a<g ref="char:EOLhyphen"/>bout <hi>Lowth,</hi> they were much heightned with confi<g ref="char:EOLhyphen"/>dence of their ſucceſſe, when ever they could draw out Forces here to an ingagement.</p>
+            <p>The want of Foote and Dragooners, made Sir <hi>Thomas Fairefax,</hi> and Colonell <hi>Cromwell</hi> very un<g ref="char:EOLhyphen"/>willing
+<pb n="2" facs="tcp:155452:3"/>
+               <!-- PDF PAGE 111 -->to fight with them, untill they had acquain<g ref="char:EOLhyphen"/>ted my Lord, and tryed what ſupplies he could af<g ref="char:EOLhyphen"/>ford them, and withall his Lordſhip was aſſured, if he could draw any Forces towards <hi>Bolenbrook Caſtle,</hi> the enemy was ſo confident of his ſtrength, that he would bring downe all his force to fight with him. Upon theſe grounds my Lord drew all his force both of Horſe and Foote from <hi>Lynne</hi> the laſt weeke, excepting one Troope of Horſe, and ſixe Compa<g ref="char:EOLhyphen"/>nies of Foote, which he left for the guard of that Towne with Colonell <hi>Walton,</hi> whom he made Lieu<g ref="char:EOLhyphen"/>tenant Governour.</p>
+            <p>Upon Monday my Lord drew out all his Foote out of <hi>Boſton,</hi> tenne Companies he laid in <hi>Bolenbrooke</hi> Towne, under the command of Major <hi>Knight,</hi> Ser<g ref="char:EOLhyphen"/>geant Major, to Sir <hi>Miles Hobart;</hi> Colonell <hi>Ruſſels</hi> Regiment was quartered at <hi>Stickford,</hi> within a mile of them, and my Lords owne (being but three) companies (the reſt being ſent to <hi>Hull,</hi> and left at <hi>Lynne</hi>) at <hi>Stickney,</hi> and the Horſe were all quartered in the Townes round about, at eight and ten miles diſtance.</p>
+            <p>Upon Monday night Major <hi>Knight</hi> ſummoned the Caſtle in my Lord of <hi>Mancheſters</hi> name, but was anſwered, that his bugge-beare w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds could not make them quit the place that night, our men tooke in a little houſe, on the right hand betweene the Ca<g ref="char:EOLhyphen"/>ſtle and the Church, and reſolved the next night to indeavour to breake open the Church doores, and there to mount a Morterpiece, and thence fire the Caſtle.</p>
+            <p>
+               <pb n="3" facs="tcp:155452:3"/>
+               <!-- PDF PAGE 111 -->
+The enemy had notice upon Friday that my Lord was comming, or come into theſe parts, and there<g ref="char:EOLhyphen"/>upon drew out all their Horſe and Dragoones from their ſeverall Garriſons, at <hi>Lincolne, Newarke</hi> and <hi>Gainesbury,</hi> with a reſolution to find him out and fight with him. Upon Tueſday thoſe of the Caſtle killed one or two of our men, and as Major <hi>Knight</hi> and Quartermaſter Generall <hi>Vermeyden</hi> were view<g ref="char:EOLhyphen"/>ing of it, made ſome ſhot at them, one of them hit the Quartermaſter Generall a little below the An<g ref="char:EOLhyphen"/>ckle, but did not pierce the skinne, onely bruiſed his legge.</p>
+            <p>That afternoone my Lord of <hi>Mancheſter</hi> came himſelfe to <hi>Kirkeby,</hi> which is within a mile of <hi>Bo<g ref="char:EOLhyphen"/>lenbrooke</hi> with Colonell <hi>Cromwell,</hi> my Lord <hi>Willough<g ref="char:EOLhyphen"/>by</hi> met him there, and Sir <hi>Thomas Farefax</hi> was then at <hi>Horne Caſtle</hi> about five miles off; one of his Regiaments having the watch at <hi>Edlington</hi> about three miles further, nearer the enemy. My Lord had not beene long there before he received a letter from Sir <hi>Thomas Farefax,</hi> that an Allarome was gi<g ref="char:EOLhyphen"/>ven to ſome of our Quarters, and that himſelf had ſent out ſome Horſe to diſcover what it might bee, and would immediately give him a further account, which he did by another letter about an houre after; the party being returned and could get no infor<g ref="char:EOLhyphen"/>mation of any enemy neare, but conceived it to bee a miſtake.</p>
+            <p>Sir <hi>Thomas Farefax</hi> reſolved however to ſtay there untill the evening, and then come to <hi>Kirkeby</hi> to my Lord. My Lord conceived it fit, and ſo did all
+<pb n="4" facs="tcp:155452:4"/>
+               <!-- PDF PAGE 112 -->thoſe that were with him, to give the Allarome to all his Quarters, and to appoint <hi>Hornecaſtle</hi> to bee the Allarome place, and to goe himſelfe immedi<g ref="char:EOLhyphen"/>ately thither to Sir <hi>Thomas Farefax;</hi> and when all their men were thus drawne together, to take fur<g ref="char:EOLhyphen"/>ther reſolutions. And immediately with my Lord <hi>Willoughby</hi> and ſome Officers with him tooke horſe for <hi>Hornecaſtle.</hi> Sir <hi>Thomas Fairefax</hi> in the meane time getting no intelligence of the enemies ap<g ref="char:EOLhyphen"/>proach came away towards <hi>Kirkeby</hi> to my Lord.</p>
+            <p>Before my Lord reached <hi>Hornecaſtle,</hi> the Alla<g ref="char:EOLhyphen"/>rome came to him in good earneſt, that the enemy was fallen into our quarters, and was marching to<g ref="char:EOLhyphen"/>wards <hi>Hornecaſtle.</hi> Comming nearer the Towne he could heare great ſhouting and noyſe, which hee conceived to be the enemies triumph, having beaten our men out of the towne, but it proved otherwiſe; for ſome of our men falling upon the enemies For<g ref="char:EOLhyphen"/>lorne-Hopes, though (but part of two Troopes) ſeeing themſelves deſperately engaged, reſolved to put the beſt face on it; and fel upon them with crying and ſhouting, which did exceedingly amaze the enemy, and gave our men the eaſier paſſage through the middeſt of them.</p>
+            <p>My Lord finding the enemy come into his quar<g ref="char:EOLhyphen"/>ters before he could have any certaine information where he was; and the Allarome place poſſeſſed, appointed <hi>Kirkeby</hi> and <hi>Bullenbrooke</hi> hill, for all his men to repaire unto, and accordingly ſent word to all the quarters whither all our men came that night except three Troopes that were directed to <hi>Stickney,</hi>
+               <pb n="5" facs="tcp:155452:4"/>
+               <!-- PDF PAGE 112 -->and three or foure Troopes that went by the way of <hi>Tatterſhall,</hi> and came not in untill next morning. Many of our Troopes came to <hi>Hornecaſtle</hi> accor<g ref="char:EOLhyphen"/>ding to the firſt orders, but finding the enemy there came away without any loſſe at all or very little. The enemy had fallen into our quarters at <hi>Thimbleby</hi> and ſome townes thereabout, where foure or five of our Troopes were in a manner ſurprized; but finding themſelves ingaged, gave ſo good proofe of their courage that the enemy will hardly bragge of that nights worke. The Troopes that were enga<g ref="char:EOLhyphen"/>ged were Captaine <hi>Johnſons,</hi> Captaine <hi>Players</hi> and Captaine <hi>Samuel Moodies,</hi> they did all of them come off very well, with little loſſe (except Captaine <hi>Moodie</hi> his colours) and brought halfe a dozen pri<g ref="char:EOLhyphen"/>ſoners with them. I do beleeve upon good grounds that the enemy loſt ſome Officers both of Horſe and Dragooners that night, but truely we loſt not one. The enemies Word was <hi>Cavendiſh</hi> and ours <hi>Reli<g ref="char:EOLhyphen"/>gion.</hi> All that night we were drawing our Horſe to the appointed Randezvous.</p>
+            <p>The next morning being Wedneſday my Lord gave order that the whole force both Horſe and Foote ſhould be drawen up to <hi>Bolenbrooke</hi> hill, where he would expect the enemy, being the only conve<g ref="char:EOLhyphen"/>nient ground to fight with him. Colonell <hi>Cromwell</hi> was no way ſatisfied that we ſhould fight, our Horſe being extreame wearied with hard duty two or three dayes together.</p>
+            <p>The enemie drew that morning their whole body of horſe and Dragooneers into the field, being 74.
+<pb n="6" facs="tcp:155452:5"/>
+               <!-- PDF PAGE 113 -->Colours of horſe, and 21. Colours of Dragooneers, in all 95. Colours. We had not many more then halfe ſo many Colours of horſe &amp; Dragooneers, but I beleeve we had as many men, beſides our foot, which indeed could not be drawne up untill it was very late. I beleeve that as we had no notice of the enemies comming towards us, ſo they had as little of our preparation to fight with them. It was about twelve a clocke, ere our horſe and Dragooneers were drawne up, after that we marched about a mile nea<g ref="char:EOLhyphen"/>rer the enemy, and then we began to deſcry him by little and little comming towards us; untill this time we did not know we ſhould fight, but ſo ſoone as our men had knowledge of the enemies comming they were very full of joy and reſolution, thinking it a great mercy that they ſhould fight with him. Our men went on in ſeveral bodies ſinging Pſalmes, Quartermaſter Generall <hi>Vermayden</hi> with five troopes had the forlorne hope, and Collonell <hi>Cromwell</hi> the Vanne, aſſiſted with other of my Lords troopes, and ſeconded by Sir <hi>Thomas Fairefax;</hi> both armies met about <hi>Ixby</hi> (if I miſtake not the Townes name) both they and we had drawne up our Dragooneers, who gave the firſt charge, and then the horſe fell in. Collonell <hi>Cromwell</hi> fell with reſolution upon the enemy, immediately after their Dragooneers had given him the firſt volley, yet they were ſo nimble, as within halfe Piſtoll ſhot they gave him another; his horſe was killed under him at the firſt charge, and fell downe upon him, as he roſe he was knock'd downe againe by the Gentleman that charged him,
+<pb n="7" facs="tcp:155452:5"/>
+               <!-- PDF PAGE 113 -->who we conceive was Sir <hi>Ingram Hopton;</hi> but after<g ref="char:EOLhyphen"/>ward he recovered a poore horſe in a Souldiers hand and mounted himſelfe againe. Truly this charge was ſo home given that the enemy ſtood not another, but were driven backe upon their owne body that was to ſecond them, and put them into diſorder, our men charged all in with him, and then they ranne for it, leaving all their Dragooneers which were now on foot behinde them. Our men purſued them, and did execution on them about five miles, all the way being ſtrewed with broken armes, dead men and horſes. We know not yet what perſons of note were killed among them, ſome faire and white ksins I ſaw among the dead bodies both upon the place where the fight was, and in the high-way much far<g ref="char:EOLhyphen"/>ther off. Sir <hi>Ingram Hopton</hi> is certainly ſlaine, and they ſay Sir <hi>Charles,</hi> or Sir <hi>George Bolles:</hi> we have many priſoners, ſome of note, Lieutenant Collonel <hi>Aires</hi> being one. What Colours are taken I cannot certainely ſay, but I ſaw many in ſeverall hands we doe not agree upon the number of the ſlaine, I gueſſe them under one thouſand; the fight continued not above a quarter of an houre, but the execution untill almoſt night: our word was <hi>Peace and Truth,</hi> the enemies, <hi>Newcaſtle.</hi> We loſt very few, none of note, I know but of one Officer hurt, and that is Collonel <hi>Cromwels</hi> Captaine Lieutenant. The foote were not drawne up to the place where the fight was, untill after the fight and chaſe was over. Horſe and foote though very weary marched on towards <hi>Horne</hi> Ca<g ref="char:EOLhyphen"/>ſtle, where my Lord lay this night with all the foot,
+<pb n="8" facs="tcp:155452:6"/>
+               <!-- PDF PAGE 114 -->his horſe being ſent to their old quarters in the townes adjoyning. Both Officer and Souldier did their duty very well and bravely, my Lord tooke wonderfull paines in bringing it to this paſſe, and drawing up all the foote to have relieved the horſe, in caſe they had needed it. But God did all, taking away the enemies hearts, and giving reſolution to our men, to God onely be the glory.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:155452:6"/>
+            <!-- PDF PAGE 114 -->
+            <p>LET the Reader note that there was a miſtake in the Bils ſent to the Miniſters of every Pariſh for Thankſgiving, for in the note given by direction from the Lord Generall, there was onely mention made of 95. Colours of the Marqueſſe of <hi>Newcaſtles</hi> in the field; the tranſcriber of the note miſtooke, and ſaith there were 95. Colours taken. Which when his Excellency heard of, he was very much diſpleaſed,</p>
+         </div>
+      </body>
+   </text>
+</TEI>
